@@ -74,8 +74,8 @@
 
 @media(min-width: 1024px){
     .hero__img{
-        width: 81rem;
-        height: 81rem;
+        width: 20rem;
+        height: 20rem;
     }
     .hero__subtitle{
         font-size: var(--size-2xl);

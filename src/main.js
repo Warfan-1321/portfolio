@@ -14,7 +14,12 @@ import '../styles/util.css';
 import mobileNav from './utils/mobile-nav';
 import darkMode from './utils/dark';
 import lazyLoading from './utils/lazy  loading';
-
+import initGSAP from './utils/gsap';
+// import aboutGSAP from './utils/about';
+// import featureGSAP from './utils/feature';
 mobileNav();
 darkMode();
 lazyLoading();
+initGSAP();
+// aboutGSAP();
+// featureGSAP();
